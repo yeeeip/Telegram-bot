@@ -23,11 +23,12 @@ Your answers will be sent to the administrator's email, which is specified in th
 ![2022-07-23_14-50-29](https://user-images.githubusercontent.com/81825828/180602033-0a041d69-9f66-4f03-8b1f-86f2a190818a.png)
 
 # Validation
-There are some constraints for the data you input.
+There are some constraints for the data you enter.
 
 For example, the length of your first name must be between 2 and 100 symbols. Otherwise, you will see the error message:
 
 ![2022-07-23_14-59-56](https://user-images.githubusercontent.com/81825828/180602537-537ab119-a335-49e0-bf7e-bf015058feb4.png)
+
 In this case, re-enter your answer given the limitations.
 
 There are also some another constraints.
