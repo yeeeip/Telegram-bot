@@ -8,6 +8,7 @@ Send /start command to the bot and it will suggest you to fill in the data or lo
 
 ![2022-07-23_14-43-27](https://user-images.githubusercontent.com/81825828/180601852-093291e5-6b9a-4190-b06d-68838d2ce0e3.png)
 
+# Answering questions
 Send /newdata in order to answer some simple questions and leave your contacts.
 
 So, here you can see the first question, bot asks you to write your first name.
