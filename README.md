@@ -1,4 +1,4 @@
-# Java Spring Boot bot
+# Spring Boot Telegram Bot
 This bot can collect data about the participants of some event or about the applicants for the position
 
 # Getting started
